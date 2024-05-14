@@ -1,1 +1,14 @@
-file:///C:/Users/GuptaSO/Downloads/2gS3ImeON7g9hCH9bJshzVcMGJ1.svg
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="100" viewBox="0 0 200 100">
+  <!-- Graphic symbol (as described) -->
+  <!-- Starburst effect -->
+  <circle cx="50" cy="50" r="30" fill="green" />
+  <polygon points="50,20 60,40 80,40 65,55 75,75 50,60 25,75 35,55 20,40 40,40" fill="yellow" />
+  <!-- Inverted pyramid -->
+  <polygon points="40,60 60,60 50,80" fill="green" />
+
+  <!-- Text ("MA'ADEN") -->
+  <!-- Arabic script -->
+  <text x="10" y="70" font-family="Arial" font-size="16" fill="darkgreen">معادن</text>
+  <!-- Latin script -->
+  <text x="10" y="90" font-family="Arial" font-size="16" fill="darkgreen">MA'ADEN</text>
+</svg>
